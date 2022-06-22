@@ -1,0 +1,17 @@
+body {
+    padding: 30px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #555555;
+}
+
+a:hover {
+    text-shadow: 0 0 5px #555555;
+}
